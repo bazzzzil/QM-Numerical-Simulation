@@ -15,6 +15,8 @@ close to resonance, thus we can approximate the solution by killing off fast
 rotating terms. As we deviate from this condition, RWA no longer holds and thus 
 the solution becomes more unstable.
 
+SciPy's RK4 is far more stable than the in-house version...
+
 """
 #%% Importing necessary packages
 # numpy for calculations, matplotlib.pyplot for plotting, scipy for integrating

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Functions to use in Numerical Methods (update after every class)
+Functions to use in Numerical Methods. Works by importing into main code.
 """
 import numpy as np
 from scipy.fftpack import fft, ifft, fftshift,ifftshift
